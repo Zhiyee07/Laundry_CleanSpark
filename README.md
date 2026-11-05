@@ -46,4 +46,4 @@ Developed experience working collaboratively on a group project.
 Group Academic Project
 
 ## 8. Developer Contributions
-Developed the Update Order Status and View Customer History modules as part of the group project.
+Developed the Update Order Status, Member Payment and Payment modules as part of the group project.
